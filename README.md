@@ -1,1 +1,1 @@
-# react_test
+# react_my_notes_app
